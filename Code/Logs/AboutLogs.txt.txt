@@ -1,0 +1,3 @@
+*_log* >> here threshold was taken as >2.5 while pre-processing logs
+new*,training,testing,merged,new16 >> here threshold was taken as >=2.5 while pre-processing logs
+naya_log >> newly created by changing multiplier of echo from 0.083 to 0.084 in Combinations.java
